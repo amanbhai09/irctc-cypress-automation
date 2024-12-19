@@ -134,7 +134,7 @@
       "FOOD" "No Food"
     },
     {
-      "NAME": "Passenger 3 Name",
+      "NAME": "admin3",
       "AGE": 26,
       "GENDER": "Female",
       "SEAT": "Side Lower",
